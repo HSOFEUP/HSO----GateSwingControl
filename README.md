@@ -11,7 +11,7 @@ User can specify the power of the actuators and change the triac fire angle usin
 
 ## Videos/Images
 
-![](./Images/SchThumbnail.jpg)
+![](./Images/SchThumbnail.png)
 Proteus schematics.  
 
 
